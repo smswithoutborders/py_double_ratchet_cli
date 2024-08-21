@@ -1,0 +1,1 @@
+smswithoutborders_libsig @ git+https://github.com/smswithoutborders/lib_signal_double_ratchet_python.git@staging
